@@ -43,4 +43,4 @@ python3 src/main.py
 ✅ SARSA 
 
 ## Screenshots
-![result](./result.png)<br/><br/><br/>
+![result](./img/result.png)<br/><br/><br/>
